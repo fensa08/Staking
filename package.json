@@ -1,0 +1,19 @@
+{
+  "name": "staking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "soljson-v0.5.11+commit.c082d0b4.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.3.0",
+    "openzeppelin-solidity": "^2.3.0",
+    "openzeppelin-solidity-2.3.0": "^100.0.4"
+  }
+}
